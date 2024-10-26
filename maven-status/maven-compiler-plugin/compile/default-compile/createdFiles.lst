@@ -1,0 +1,5 @@
+com\rcoem\deveops\DeveopsApplication.class
+com\rcoem\deveops\Interface\DeveopsController.class
+com\rcoem\deveops\User.class
+com\rcoem\deveops\Interface\UsersController.class
+com\rcoem\deveops\services\UserServices.class
